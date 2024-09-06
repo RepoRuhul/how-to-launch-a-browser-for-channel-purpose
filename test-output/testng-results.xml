@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-06T00:48:03 EDT" name="Default suite" finished-at="2024-09-06T00:48:08 EDT" duration-ms="5005">
+    <groups>
+    </groups>
+    <test started-at="2024-09-06T00:48:03 EDT" name="Default test" finished-at="2024-09-06T00:48:08 EDT" duration-ms="5005">
+      <class name="Launching_the_browser">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:Launching_the_browser@5f049ea1]" started-at="2024-09-06T00:48:03 EDT" name="SetUp" finished-at="2024-09-06T00:48:08 EDT" duration-ms="4488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="title_test()[pri:0, instance:Launching_the_browser@5f049ea1]" started-at="2024-09-06T00:48:08 EDT" name="title_test" finished-at="2024-09-06T00:48:08 EDT" duration-ms="266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- title_test -->
+        <test-method is-config="true" signature="tearUp()[pri:0, instance:Launching_the_browser@5f049ea1]" started-at="2024-09-06T00:48:08 EDT" name="tearUp" finished-at="2024-09-06T00:48:08 EDT" duration-ms="219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearUp -->
+      </class> <!-- Launching_the_browser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
